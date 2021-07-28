@@ -1,7 +1,27 @@
-# minizoom
-# Node JS Zoom Clone
+# ZOOMIE CLONE #
+Приветствую читателей!
+Я создал веб-сайт, чтобы предоставить пользователю платформу, на которой можно легко общаться и взаимодействовать с большими группами повсюду. В частности, это реплика, похожая на зум
+и другие подобные приложения. <br/>
+Где люди могут разговаривать по видеосвязи, обмениваться контентом, проводить встречи, занятия или просто общаться в чате. <br/>
+Использование этих основных функций может дать огромные преимущества: <br/>
+* СЕКТОР ЗДРАВООХРАНЕНИЯ <br/> 
+* ОБРАЗОВАТЕЛЬНЫЙ СЕКТОР (специально для студентов) <br/>
+* ПРОФЕССИОНАЛЬНЫЙ СЕКТОР
+<br/>
 
-The program was created in node js. And for working in the program you should install node js and after downloading the archive. Do npm install for working program. The program is not working
-in 100% like zoom but it has some functionalities zoom program for example video call muting the voice and video. Also, you can chat with the people who are now at the conference
+Как пользоваться этим приложением
+---------------
+![Video of Website](https://github.com/NazirovJr/minizoom/blob/main/bandicam%202021-07-28%2015-42-27-550.mp4)
+Уникальный идентификатор комнаты будет генерироваться каждый раз, когда вы откроете указанную выше ссылку, позже поделитесь ссылкой с человеком, с которым вы хотите начать собрание, и он будет в той же комнате собрания. <br/>
+При первом использовании этого приложения вы должны дать разрешение вашей камере и микрофону.
 
-the program was created by  Nazirov Ilhomjon <naziroffjr@gmail.com>
+## Используемые технологии ##
+```
+ 1) Node.js
+ 2) Express JS
+ 3) CSS
+ 4) Socket.IO
+ 5) PeerJS
+ 6) uuid
+```
+
